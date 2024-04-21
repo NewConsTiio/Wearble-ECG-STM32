@@ -1,10 +1,8 @@
 # ECG-BMD101-STM32-for cyclist
 <STM32 Portable ECG Monitoring and Analysis IoT Device for Cyclist based on BMD101 chips, speed sensors included>
 
-This project focuses on developing an Electrocardiogram (ECG) signal acquisition module coupled with a mobile ECG and riding speed monitoring platform utilizing low-power Bluetooth Low Energy (BLE) for wireless communication. The system design encompasses two key components: hardware and software development.
-
-The hardware design involves creating an efficient ECG signal acquisition module, while the software development centers on implementing algorithms for ECG waveform analysis and signal noise reduction. Through meticulous testing, the system's performance is evaluated, affirming its suitability for prolonged heart rate and riding speed monitoring for cyclists. Key findings highlight the system's commendable real-time performance and high accuracy.
-----------------------------------------------------------------------------------------------------------------
+This project focuses on developing an Electrocardiogram (ECG) signal acquisition module coupled with a mobile ECG and riding speed monitoring platform utilizing low-power Bluetooth Low Energy (BLE) for wireless communication. The system design encompasses two key components: hardware and software development. The hardware design involves creating an efficient ECG signal acquisition module, while the software development centers on implementing algorithms for ECG waveform analysis and signal noise reduction. Through meticulous testing, the system's performance is evaluated, affirming its suitability for prolonged heart rate and riding speed monitoring for cyclists. Key findings highlight the system's commendable real-time performance and high accuracy.
+________________________________________________________________________________________________________________
 This project including:
 1. Circuit design of the device
 2. PCB layout
